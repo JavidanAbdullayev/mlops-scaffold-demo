@@ -1,0 +1,6 @@
+# requirements.txt
+pytest
+pytest-cov
+pylint
+black
+isort

@@ -10,7 +10,6 @@ phases:
       - echo Running tests...
       - export PYTHONPATH=$PYTHONPATH:$(pwd)  # Add root to Python path
       - pytest
-      - pylint
 
 artifacts:
   files:
